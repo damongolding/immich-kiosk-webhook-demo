@@ -1,0 +1,1 @@
+# Immich Kiosk Webhook Demo
